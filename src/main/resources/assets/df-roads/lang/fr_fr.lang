@@ -133,7 +133,7 @@ tile.sign_printer.name=Imprimante de panneau de signalisation
 itemGroup.tabRoads=derfl007's Road Mod
 
 block.road_lines.tooltip=Si vous ne voulez pas que les lignes communiquent automatiquement, utilisez la version simple du bloc désiré
-block.road_rotatable.tooltip=Placez ce bloc sur le haut d'un bloc routier normal ou d'un bloc routier avec une ligne connectable pour en faire une pente. Utilisez la clé pour faire tourner la texture sur le dessus
+block.road_rotatable.tooltip=Placez ce bloc sur le haut d'un bloc de route normal ou d'un bloc de route avec une ligne connectable pour en faire une pente. Utilisez la clé pour faire tourner la texture sur le dessus
 gui.tooltip.view_more=Appuyez sur la touche Maj pour voir plus
 gui.sign_printer.print=Imprimer
 gui.sign_printer.info=Information
